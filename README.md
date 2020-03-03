@@ -1,8 +1,8 @@
 # Machine-Learning-ALF
 
-Machine Learning CSC 5825
-Submitted by Harmeet Chhibber (ha8276)
-Final Project Submission
+Machine Learning 
+Submitted by Harmeet Chhibber
+
 
 Background Information:
 The main objective of this project is to predict liver failure using demographic and personal health information. About 8785 individuals who were 20 years and older and recorded their data in 27 variables were treated as the training data. This information was collected using direct interviews, examinations and blood samples. Data collected from surveys in 2008-09 and 2014-15 at JPAC Centre for Health Diagnosis and Control in India.
